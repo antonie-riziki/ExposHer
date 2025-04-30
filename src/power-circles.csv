@@ -1,0 +1,61 @@
+name,age,location,phone_number,profession,interests,bio,profile_pic,company,fun_fact
+Achieng Atieno,24,Nairobi,,Software Developer,Prayer WorriHer,Passionate about empowering women through tech.,https://randomuser.me/api/portraits/women/0.jpg,AkiliTech,Once climbed Mt. Kenya.
+Nafula Nekesa,25,Kitale,,Fashion Designer,Prayer WorriHer,Helping moms balance tech and life.,https://randomuser.me/api/portraits/women/10.jpg,TechSisters KE,Keeps a gratitude jar.
+Ivy Muthoni,33,Embu,,Mental Health Advocate,Prayer WorriHer,Believer in soft life and bold goals.,https://randomuser.me/api/portraits/women/15.jpg,NurtureNest,Owns a community library.
+Yvonne Gichuru,25,Garissa,,Community Organizer,Glow Getters,Running the world one sprint at a time.,https://randomuser.me/api/portraits/women/19.jpg,Zuri Circle,Once pitched to investors barefoot.
+Grace Nyambura,36,Isiolo,,Fitness Coach,Glow Getters,Transforming tech with a woman’s touch.,https://randomuser.me/api/portraits/women/16.jpg,SheHive,Once DJ at a wedding.
+Makena Mutheu,32,Machakos,,Business Analyst,Glow Getters,"Faith, fashion, and frontend frameworks.",https://randomuser.me/api/portraits/women/8.jpg,Nia Ventures,Started a tech blog in college.
+Zawadi Mwangangi,30,Eldoret,,Social Media Manager,Zen Queens,Championing women's wellness and leadership.,https://randomuser.me/api/portraits/women/4.jpg,AfriGlow,Traveled to 15 counties in one year.
+Betty Chepkemoi,28,Naivasha,,Event Planner,Zen Queens,"Mixing colors, code, and creativity.",https://randomuser.me/api/portraits/women/13.jpg,Pink Pixel,Dreams of owning a vineyard.
+Wanjiru Kamau,33,Mombasa,,Graphic Designer,Zen Queens,"Lover of peace, prayer, and purpose.",https://randomuser.me/api/portraits/women/1.jpg,MamaMoney,Can cook 10 dishes blindfolded.
+Zawadi Mwangangi,30,Eldoret,,Social Media Manager,Cycle Sisters,Championing women's wellness and leadership.,https://randomuser.me/api/portraits/women/4.jpg,AfriGlow,Traveled to 15 counties in one year.
+Wanjiru Kamau,33,Mombasa,,Graphic Designer,Cycle Sisters,"Lover of peace, prayer, and purpose.",https://randomuser.me/api/portraits/women/1.jpg,MamaMoney,Can cook 10 dishes blindfolded.
+Joyce Cherono,35,Voi,,Chef,Cycle Sisters,Solving problems and sipping tea.,https://randomuser.me/api/portraits/women/14.jpg,Rise & Slay,Knows 4 local dialects.
+Carol Njoki,32,Kericho,,HR Manager,Closet Confession,"Spreading love and motivation, one video at a time.",https://randomuser.me/api/portraits/women/12.jpg,HerSphere,Has a pet chameleon.
+Nafula Nekesa,25,Kitale,,Fashion Designer,Closet Confession,Helping moms balance tech and life.,https://randomuser.me/api/portraits/women/10.jpg,TechSisters KE,Keeps a gratitude jar.
+Zawadi Mwangangi,30,Eldoret,,Social Media Manager,Closet Confession,Championing women's wellness and leadership.,https://randomuser.me/api/portraits/women/4.jpg,AfriGlow,Traveled to 15 counties in one year.
+Wanjiru Kamau,33,Mombasa,,Graphic Designer,Travel Companion,"Lover of peace, prayer, and purpose.",https://randomuser.me/api/portraits/women/1.jpg,MamaMoney,Can cook 10 dishes blindfolded.
+Joyce Cherono,35,Voi,,Chef,Travel Companion,Solving problems and sipping tea.,https://randomuser.me/api/portraits/women/14.jpg,Rise & Slay,Knows 4 local dialects.
+Makena Mutheu,32,Machakos,,Business Analyst,Travel Companion,"Faith, fashion, and frontend frameworks.",https://randomuser.me/api/portraits/women/8.jpg,Nia Ventures,Started a tech blog in college.
+Betty Chepkemoi,28,Naivasha,,Event Planner,Money Honeyz,"Mixing colors, code, and creativity.",https://randomuser.me/api/portraits/women/13.jpg,Pink Pixel,Dreams of owning a vineyard.
+Diana Moraa,36,Homabay,,Mobile Developer,Money Honeyz,Advocating for financial freedom for women.,https://randomuser.me/api/portraits/women/17.jpg,BloomLab,Paints abstract tech art.
+Amina Said,33,Thika,,AI Researcher,Money Honeyz,"Building the next big startup, one line of code at a time.",https://randomuser.me/api/portraits/women/6.jpg,FemTech Rise,Volunteers for girls in STEM.
+Betty Chepkemoi,28,Naivasha,,Event Planner,She Means Biz,"Mixing colors, code, and creativity.",https://randomuser.me/api/portraits/women/13.jpg,Pink Pixel,Dreams of owning a vineyard.
+Zawadi Mwangangi,30,Eldoret,,Social Media Manager,She Means Biz,Championing women's wellness and leadership.,https://randomuser.me/api/portraits/women/4.jpg,AfriGlow,Traveled to 15 counties in one year.
+Wanjiru Kamau,33,Mombasa,,Graphic Designer,She Means Biz,"Lover of peace, prayer, and purpose.",https://randomuser.me/api/portraits/women/1.jpg,MamaMoney,Can cook 10 dishes blindfolded.
+Ivy Muthoni,33,Embu,,Mental Health Advocate,Mama Bear,Believer in soft life and bold goals.,https://randomuser.me/api/portraits/women/15.jpg,NurtureNest,Owns a community library.
+Achieng Atieno,24,Nairobi,,Software Developer,Mama Bear,Passionate about empowering women through tech.,https://randomuser.me/api/portraits/women/0.jpg,AkiliTech,Once climbed Mt. Kenya.
+Betty Chepkemoi,28,Naivasha,,Event Planner,Mama Bear,"Mixing colors, code, and creativity.",https://randomuser.me/api/portraits/women/13.jpg,Pink Pixel,Dreams of owning a vineyard.
+Riziki Bakari,22,Lamu,,UI/UX Designer,SisterHood Secrets,Nature lover turning ideas into innovation.,https://randomuser.me/api/portraits/women/11.jpg,BoldMinds,Grew up near Lake Victoria.
+Sheila Wairimu,30,Nyeri,,Content Creator,SisterHood Secrets,"Coding during the day, crafting at night.",https://randomuser.me/api/portraits/women/9.jpg,Ubuntu Creatives,Reads 3 books a week.
+Amina Said,33,Thika,,AI Researcher,SisterHood Secrets,"Building the next big startup, one line of code at a time.",https://randomuser.me/api/portraits/women/6.jpg,FemTech Rise,Volunteers for girls in STEM.
+Fatuma Hassan,35,Kisumu,,Data Scientist,Pet Lovers,Data-driven and dreams big.,https://randomuser.me/api/portraits/women/2.jpg,SheInnovates,Writes poems in binary.
+Nafula Nekesa,25,Kitale,,Fashion Designer,Pet Lovers,Helping moms balance tech and life.,https://randomuser.me/api/portraits/women/10.jpg,TechSisters KE,Keeps a gratitude jar.
+Terry Wanja,24,Kisii,,Teacher,Pet Lovers,Turning stories into software solutions.,https://randomuser.me/api/portraits/women/18.jpg,KuwaSmart,Brews herbal tea blends.
+Achieng Atieno,24,Nairobi,,Software Developer,Crafty Baddies,Passionate about empowering women through tech.,https://randomuser.me/api/portraits/women/0.jpg,AkiliTech,Once climbed Mt. Kenya.
+Carol Njoki,32,Kericho,,HR Manager,Crafty Baddies,"Spreading love and motivation, one video at a time.",https://randomuser.me/api/portraits/women/12.jpg,HerSphere,Has a pet chameleon.
+Sheila Wairimu,30,Nyeri,,Content Creator,Crafty Baddies,"Coding during the day, crafting at night.",https://randomuser.me/api/portraits/women/9.jpg,Ubuntu Creatives,Reads 3 books a week.
+Joyce Cherono,35,Voi,,Chef,Reel Sisters,Solving problems and sipping tea.,https://randomuser.me/api/portraits/women/14.jpg,Rise & Slay,Knows 4 local dialects.
+Carol Njoki,32,Kericho,,HR Manager,Reel Sisters,"Spreading love and motivation, one video at a time.",https://randomuser.me/api/portraits/women/12.jpg,HerSphere,Has a pet chameleon.
+Yvonne Gichuru,25,Garissa,,Community Organizer,Reel Sisters,Running the world one sprint at a time.,https://randomuser.me/api/portraits/women/19.jpg,Zuri Circle,Once pitched to investors barefoot.
+Sylvia Jebet,24,Nairobi,723738861,Software Developer,Code Queens,Passionate about empowering women through tech.,https://pbs.twimg.com/media/F-FxXj0XwAAy_0B?format=jpg&name=4096x4096,Africas Talking,Lover of watching plays in theatre and trying new cuisines plus she doesn�t shy away from leadership responsibilities.
+Elizabeth Mwangi,25,Kitale,,Software Developer,Code Queens,"I possess a strong passion for problem-solving. Proficient in various programming languages such as Python and Java, I focus on delivering innovative solutions to intricate challenges.",https://pbs.twimg.com/profile_images/1708385361288740864/wjNoykf9_400x400.jpg,Africas Talking,Keeps a gratitude jar.
+Njeri Njuguna,32,Kakamega,,Entrepreneur,Code Queens,Finding joy in sisterhood and self-care.,https://randomuser.me/api/portraits/women/5.jpg,Wellness Circle,Built her first app at 15.
+Carol Njoki,32,Kericho,,HR Manager,Binge Besties,"Spreading love and motivation, one video at a time.",https://randomuser.me/api/portraits/women/12.jpg,HerSphere,Has a pet chameleon.
+Nafula Nekesa,25,Kitale,,Fashion Designer,Binge Besties,Helping moms balance tech and life.,https://randomuser.me/api/portraits/women/10.jpg,TechSisters KE,Keeps a gratitude jar.
+Fatuma Hassan,35,Kisumu,,Data Scientist,Binge Besties,Data-driven and dreams big.,https://randomuser.me/api/portraits/women/2.jpg,SheInnovates,Writes poems in binary.
+Naliaka Wafula,22,Nakuru,,Marketing Executive,Music Girlie,Creative mind exploring the world of code and fashion.,https://randomuser.me/api/portraits/women/3.jpg,CodeQueens Africa,Collects vintage earrings.
+Njeri Njuguna,32,Kakamega,,Entrepreneur,Music Girlie,Finding joy in sisterhood and self-care.,https://randomuser.me/api/portraits/women/5.jpg,Wellness Circle,Built her first app at 15.
+Makena Mutheu,32,Machakos,,Business Analyst,Music Girlie,"Faith, fashion, and frontend frameworks.",https://randomuser.me/api/portraits/women/8.jpg,Nia Ventures,Started a tech blog in college.
+Ivy Muthoni,33,Embu,,Mental Health Advocate,Scribble Sisters,Believer in soft life and bold goals.,https://randomuser.me/api/portraits/women/15.jpg,NurtureNest,Owns a community library.
+Njeri Njuguna,32,Kakamega,,Entrepreneur,Scribble Sisters,Finding joy in sisterhood and self-care.,https://randomuser.me/api/portraits/women/5.jpg,Wellness Circle,Built her first app at 15.
+Joyce Cherono,35,Voi,,Chef,Scribble Sisters,Solving problems and sipping tea.,https://randomuser.me/api/portraits/women/14.jpg,Rise & Slay,Knows 4 local dialects.
+Carol Njoki,32,Kericho,,HR Manager,Green Goddess,"Spreading love and motivation, one video at a time.",https://randomuser.me/api/portraits/women/12.jpg,HerSphere,Has a pet chameleon.
+Naliaka Wafula,22,Nakuru,,Marketing Executive,Green Goddess,Creative mind exploring the world of code and fashion.,https://randomuser.me/api/portraits/women/3.jpg,CodeQueens Africa,Collects vintage earrings.
+Amina Said,33,Thika,,AI Researcher,Green Goddess,"Building the next big startup, one line of code at a time.",https://randomuser.me/api/portraits/women/6.jpg,FemTech Rise,Volunteers for girls in STEM.
+Riziki Bakari,22,Lamu,,UI/UX Designer,Skinfluenzers,Nature lover turning ideas into innovation.,https://randomuser.me/api/portraits/women/11.jpg,BoldMinds,Grew up near Lake Victoria.
+Nafula Nekesa,25,Kitale,,Fashion Designer,Skinfluenzers,Helping moms balance tech and life.,https://randomuser.me/api/portraits/women/10.jpg,TechSisters KE,Keeps a gratitude jar.
+Betty Chepkemoi,28,Naivasha,,Event Planner,Skinfluenzers,"Mixing colors, code, and creativity.",https://randomuser.me/api/portraits/women/13.jpg,Pink Pixel,Dreams of owning a vineyard.
+Makena Mutheu,32,Machakos,,Business Analyst,Candle & Tea Queens,"Faith, fashion, and frontend frameworks.",https://randomuser.me/api/portraits/women/8.jpg,Nia Ventures,Started a tech blog in college.
+Sheila Wairimu,30,Nyeri,,Content Creator,Candle & Tea Queens,"Coding during the day, crafting at night.",https://randomuser.me/api/portraits/women/9.jpg,Ubuntu Creatives,Reads 3 books a week.
+Linet Barasa,34,Meru,,Product Manager,Candle & Tea Queens,From Kenya to the world—empowering women every day.,https://randomuser.me/api/portraits/women/7.jpg,Digital Divas,Is a secret spoken word artist.
